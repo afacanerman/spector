@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3e9d07db_002Dede2_002D4a46_002Dbcef_002D2a3912da9e10/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from SpectorTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;2C838410-8F51-4F82-8B93-9319798C1F90/f:SpectorTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=752c09e3_002D03db_002D49a9_002Db869_002D0951b0079742/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SpectorTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C838410-8F51-4F82-8B93-9319798C1F90::net6.0::Develoopers.Spector.Unit.Tests.SpectorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C838410-8F51-4F82-8B93-9319798C1F90::net6.0::Develoopers.Spector.Unit.Tests.SpectorAndOperatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C838410-8F51-4F82-8B93-9319798C1F90::net6.0::Develoopers.Spector.Unit.Tests.SpectorOrOperatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C838410-8F51-4F82-8B93-9319798C1F90::net6.0::Develoopers.Spector.Unit.Tests.NotSpectorCompositionTests.Should_Return_False_When_Given_Spec_Is_True&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C838410-8F51-4F82-8B93-9319798C1F90::net6.0::Develoopers.Spector.Unit.Tests.NotSpectorCompositionTests.Should_Return_True_When_Given_Spec_Is_False&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C838410-8F51-4F82-8B93-9319798C1F90::net6.0::Develoopers.Spector.Unit.Tests.GenericSpecTests.Should_Return_True_When_Spec_IsSatisfied&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C838410-8F51-4F82-8B93-9319798C1F90::net6.0::Develoopers.Spector.Unit.Tests.GenericSpecTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
