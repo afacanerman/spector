@@ -2,6 +2,12 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>1.0.0</Version>
+        <Authors>Cagdas Erman Afacan</Authors>
+        <Company>Develoopers</Company>
+        <RepositoryUrl>https://github.com/afacanerman/spector</RepositoryUrl>
+        <Description> Re-usable and testable specification pattern implementation that is used to encapsulate piece of domain knowledge into single unit.</Description>
     </PropertyGroup>
 
 </Project>

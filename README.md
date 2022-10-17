@@ -3,8 +3,15 @@ Specification Pattern
 
 It's a specification pattern that is used to encapsulate piece of domain knowledge into single unit. So that It's re-usable and easily testable.
 
+### Nuget
+https://www.nuget.org/packages/Develoopers.Spector
+
+```bash
+dotnet add package Develoopers.Spector --version 1.0.0
+```
+
 ### Simple Usage
-Considering the following example:
+Consider the following example:
 ```cs
 public class User
 {
@@ -29,7 +36,7 @@ public class IsValidUserSpec : ISpector<User>
 }
 ```
 
-The usage would be as follows:
+The usage is as following:
 ```cs
 
 // Simple Usage
